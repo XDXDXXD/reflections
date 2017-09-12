@@ -9,4 +9,4 @@
     git diff [ commit_number_1 ] [ commit_number_2]: view the difference of file of different versions
 26. With version control, all the change are recoverable. So no need to worry about destroying effort done before.
 31. To develop my thesis and android project.
-test
+
