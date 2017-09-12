@@ -1,0 +1,5 @@
+5. When initial the repository, the .git was added to the directory.
+   .git contains the information git need.
+8. staging area: records who will be commited to repository
+   working directory: files in host
+   repository: reccooes all the history of commits of files
