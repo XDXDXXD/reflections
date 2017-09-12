@@ -1,0 +1,11 @@
+7.Accerating the search of finding difference or bug.
+8.Yes.
+15. Git: pros. Logical, easy understand
+	 	 cons. Human make mistake
+	Google docs: pros. No mistake
+				 cons. Difficult to understand the reason behind the change
+18. The basic funcation is different, git for codes, and google docs for specific file
+22. git log: view the log of changes
+    git diff [ commit_number_1 ] [ commit_number_2]: view the difference of file of different versions
+26. With version control, all the change are recoverable. So no need to worry about destroying effort done before.
+31. To develop my thesis and android project.
