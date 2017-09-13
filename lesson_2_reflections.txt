@@ -3,3 +3,8 @@
 8. staging area: records who will be commited to repository
    working directory: files in host
    repository: reccooes all the history of commits of files
+13. Before commiting, we can use the git diff --staged to compare the difference between staging area and head.
+16. When we try to experiment some new feature or make a lot of change.
+	We can recover to the original anytime without overhead.
+21.	Charts make us easy to understand the whole structure of branches.
+26. Logs of 2 branches will look like there is only one branch.
